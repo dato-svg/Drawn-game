@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="862ab04e-8a4e-4864-88ee-b0d3678f876b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Componnents/SceneControllerComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Componnents/SpawnObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrapRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../AppData/Local/JetBrains/Shared/vAny/DecompilerCache/decompiler/327E4DAD-B975-40C7-A9AD-0A98B2C5C10A/a4/09a52831/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrapMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Componnents/ButtonScalerComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LineScripts/Line.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DelayedObjectActivator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackGroundMusicManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameWinManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Componnents/OnTriggerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Componnents/SceneControllerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Componnents/SpawnObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/DelayedObjectActivator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IceState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TraoController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrapController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrapRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LineScripts/Line.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Componnents/ButtonScalerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Audio/ButtonClick/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConstantForceController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Componnents/DestroyObjectComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Componnents/OnCollisionComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StarsStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StarsCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StarText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameWinManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrapMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackGroundMusicManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaticStartsData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EducationManager].cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LineScripts/LineManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/LOGO/NewScene.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dMF0SGlFv3XS5lOQ4GZT6qA26h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="862ab04e-8a4e-4864-88ee-b0d3678f876b" name="Default Changelist" comment="" />
+      <created>1709809821277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709809821277</updated>
+      <workItem from="1709809829989" duration="12882000" />
+      <workItem from="1709884596146" duration="17196000" />
+      <workItem from="1709964038923" duration="4065000" />
+      <workItem from="1710151100383" duration="1327000" />
+      <workItem from="1710162714401" duration="594000" />
+      <workItem from="1710163414444" duration="599000" />
+      <workItem from="1710230203088" duration="2810000" />
+      <workItem from="1710346400342" duration="1335000" />
+      <workItem from="1710426640786" duration="1199000" />
+      <workItem from="1710491845325" duration="22587000" />
+      <workItem from="1710578785198" duration="1719000" />
+      <workItem from="1710580931531" duration="9560000" />
+      <workItem from="1710669639538" duration="3139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="824" y="461" width="727" height="318" key="#C#" timestamp="1709908540986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="461" width="727" height="318" key="#C#/0.0.1920.1040@0.0.1920.1040" timestamp="1709908540986" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1710512163986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1710512163986" />
+  </component>
+</project>
