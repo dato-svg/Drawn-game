@@ -28,10 +28,18 @@ public class BackGroundMusicManager : MonoBehaviour
     
     private void Update()
     {
-        if (!_audioSource.isPlaying)
+        if (CheckStatsSound.SoundVolume == 1)
         {
-            PlayNextClip();
+            if (!_audioSource.isPlaying)
+            {
+                PlayNextClip();
+            } 
         }
+        else
+        {
+            _audioSource.Pause();
+        }
+        
     }
     
     private void PlayNextClip()
