@@ -22,13 +22,7 @@
     <list default="true" id="862ab04e-8a4e-4864-88ee-b0d3678f876b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LineRendererGAME/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LineRendererGAME/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LineRendererGAME/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LineRendererGAME/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AllLevelScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AllLevelScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/level-1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/level-1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/level-30.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/level-30.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StaticStartsData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StaticStartsData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/YandexGame/WorkingData/Editor/SavesEditorYG.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/YandexGame/WorkingData/Editor/SavesEditorYG.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LineScripts/LineManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LineScripts/LineManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +76,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/MenuManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Stats.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LineScripts/LineManager.cs" />
         <option value="$PROJECT_DIR$/Assets/LOGO/NewScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CheckStats.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CheckStatsSound.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BackGroundMusicManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameWinManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StaticStartsData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LineScripts/LineManager.cs" />
       </list>
     </option>
   </component>
@@ -147,6 +141,7 @@
       <workItem from="1710669639538" duration="3139000" />
       <workItem from="1710923257593" duration="2534000" />
       <workItem from="1711208158402" duration="2346000" />
+      <workItem from="1713117999373" duration="796000" />
     </task>
     <servers />
   </component>

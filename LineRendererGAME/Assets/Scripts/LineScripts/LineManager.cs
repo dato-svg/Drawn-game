@@ -11,6 +11,8 @@ namespace LineScripts
         [SerializeField] private bool education = false;
         [SerializeField] private GameObject educationObject;
         public const float SPEED = 0.1f;
+        public Vector3 offcet;
+        public GameObject GameActivator;
     
         private Line _currentObject;
         private static readonly int Click = Animator.StringToHash("Click");
@@ -44,7 +46,10 @@ namespace LineScripts
                     uIManager.ChangeCount(-1);
                     if (education)
                     {
-                        educationObject.GetComponent<Animator>().SetTrigger(Click);
+                        educationObject.GetComponent<RectTransform>().position =
+                            GameActivator.GetComponent<RectTransform>().position + offcet;
+                        educationObject.GetComponent<Animator>().enabled = false;
+
                     }
                 }
 
